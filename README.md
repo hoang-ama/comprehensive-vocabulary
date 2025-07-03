@@ -1,17 +1,17 @@
 # comprehensive-vocabulary
 A comprehensive vocabulary mobile app using JavaScript (React Native/ Node.js)
 
-# Vocabulary List Function
-## Word: E.g Concrete
-### Pronunciation (UK/US): /ˈkɒŋkriːt/ (UK), /ˈkɑːŋkriːt/ (US)
-### Audio: loundspeaker icon
-### Part of Speech: (n)/(v)/(adj)
-### English Definition:
-### Vietnamese Meaning:
-### Synonyms:
-### Antonyms/ antonym
-### Common Phrases:
-### Example Sentences:
+**Vocabulary List Function**
+**Word:** E.g Concrete
+* **Pronunciation (UK/US):** /ˈkɒŋkriːt/ (UK), /ˈkɑːŋkriːt/ (US)
+* **Audio:** loundspeaker icon
+* **Part of Speech:** (n)/(v)/(adj)
+* **English Definition:**
+* **Vietnamese Meaning:**
+* **Synonyms:**
+* **Antonyms:**
+* **Common Phrases:**
+* **Example Sentences:**
 
 ---
 

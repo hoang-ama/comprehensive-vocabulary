@@ -1,6 +1,18 @@
 # comprehensive-vocabulary
 A comprehensive vocabulary mobile app using JavaScript (React Native/ Node.js)
 
+# Vocabulary List Function
+## Word: E.g Concrete
+### Pronunciation (UK/US): /ˈkɒŋkriːt/ (UK), /ˈkɑːŋkriːt/ (US)
+### Audio: loundspeaker icon
+### Part of Speech: (n)/(v)/(adj)
+### English Definition:
+### Vietnamese Meaning:
+### Synonyms:
+### Antonyms/ antonym
+### Common Phrases:
+### Example Sentences:
+
 ---
 
 ## 📱 Phase 1: Overview
@@ -120,6 +132,18 @@ You’d also need:
 │   ├── components/
 │   └── services/api.js
 ```
+
+// File structure 
+// vocab-backend/
+// ├── server.js
+// ├── config/
+// │   └── db.js
+// ├── models/
+// │   └── Word.js
+// ├── routes/
+// │   └── wordRoutes.js
+// └── controllers/
+//     └── wordController.js
 
 ---
 

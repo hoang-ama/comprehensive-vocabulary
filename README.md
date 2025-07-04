@@ -1,7 +1,7 @@
 # comprehensive-vocabulary
 A comprehensive vocabulary mobile app using JavaScript (React Native/ Node.js)
 
-**Vocabulary List Function**
+## 📦 Vocabulary List Function
 **Word:** E.g Concrete
 * **Pronunciation (UK/US):** /ˈkɒŋkriːt/ (UK), /ˈkɑːŋkriːt/ (US)
 * **Audio:** loundspeaker icon

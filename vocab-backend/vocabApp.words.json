@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "686646adb225f00d94099e84"
+  },
+  "word": "concrete",
+  "phonetics": {
+    "uk": "/ˈkɒŋ.kriːt/",
+    "us": "/ˈkɑːn.kriːt/"
+  },
+  "audio": {
+    "uk": "https://dictionary.cambridge.org/media/english/uk_pron/c/con/concr/concrete.mp3",
+    "us": "https://dictionary.cambridge.org/media/english/us_pron/c/con/concr/concrete.mp3"
+  },
+  "partOfSpeech": [
+    "noun",
+    "adjective",
+    "verb"
+  ],
+  "definitions": {
+    "noun": "A hard, strong building material...",
+    "adjective": "Based on facts and information...",
+    "verb": "To cover something in concrete..."
+  },
+  "vietnamese": {
+    "noun": "bê tông",
+    "adjective": "cụ thể, rõ ràng",
+    "verb": "đổ bê tông"
+  },
+  "synonyms": [
+    "specific",
+    "definite",
+    "tangible"
+  ],
+  "antonyms": [
+    "abstract",
+    "vague"
+  ],
+  "collocations": [
+    "concrete evidence",
+    "concrete plan"
+  ],
+  "examples": [
+    "We need concrete proof before taking legal action.",
+    "They poured concrete to build the foundation."
+  ]
+}]
